@@ -1,0 +1,3 @@
+spring:
+  application:
+    admin: ${APP:first-client}
